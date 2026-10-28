@@ -1,0 +1,6 @@
+{
+  "name": "IVS Parents Meeting – Waiting Room & Token Management System",
+  "description": "Professional waiting room and manual token queue management system for Iqra Virtual School parents meetings with Zoom integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
